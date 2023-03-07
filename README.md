@@ -16,7 +16,7 @@ CRM приложение на платформе WinForms с применени�
 
 ![](C:\Users\user\Pictures\Nuget.png)
 
-<img src="file:///C:/Users/user/Pictures/Nuget.png" />
+<img src="file:///C:/Users/user/Pictures/nuget.jpg" />
       
       ‪C:\Users\user\Pictures\Nuget.png
 ![Текст с описанием картинки](‪\Pictures\Nuget.png)
